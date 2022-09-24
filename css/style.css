@@ -869,6 +869,9 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   .header #he-plugin-simple {
     margin-right: 0;
   }
+  .header .blog-title {
+    margin-left: 150px;
+  }
 }
 @media (max-width: 551px) {
   .header #he-plugin-simple {
@@ -2119,7 +2122,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
 .topArticle {
   width: 100%;
   margin-bottom: 16px;
-  background: #fff;
+  background: url("https://www.toopic.cn/public/uploads/image/20200528/20200528191527_19942.jpg");
   box-shadow: 0 1px 20px -6px rgba(0,0,0,0.5);
   padding: 20px;
   padding-bottom: 40px;
@@ -2277,7 +2280,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   box-sizing: border-box;
   transition: all 0.3s;
   position: relative;
-  background: url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png");
+  background: url("https://tse1-mm.cn.bing.net/th/id/OIP-C.V7slZPn40xkvu5pW0HL6zgHaEo?w=264&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7");
 }
 .motto .motto-title {
   text-align: center;
@@ -2301,7 +2304,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   border-radius: 10px;
   box-sizing: border-box;
   transition: all 0.3s;
-  background: url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png");
+  background: url("https://tse2-mm.cn.bing.net/th/id/OIP-C.hIL_KQ8q5K1Huz2WkM3EoAHaE5?w=249&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7");
 }
 .index-notice .index-notice-icon {
   color: #f00;
